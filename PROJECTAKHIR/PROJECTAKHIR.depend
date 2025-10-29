@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1736758720 source:c:\pemda\projectakhir\main.cpp
+	<iostream>
+	<iomanip>
+
