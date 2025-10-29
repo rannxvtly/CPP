@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1750945088 source:c:\semester2\struktur data dan algoritma\uas bank\main.cpp
+	<iostream>
+	<iomanip>
+	<string>
+
