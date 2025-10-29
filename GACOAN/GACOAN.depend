@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1750945293 source:c:\semester2\struktur data dan algoritma\gacoan\main.cpp
+	<iostream>
+	<iomanip>
+	<string>
+
