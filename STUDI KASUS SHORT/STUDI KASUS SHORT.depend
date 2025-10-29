@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1750041688 source:c:\semester2\struktur data dan algoritma\studi kasus short\main.cpp
+	<iostream>
+	<iomanip>
+	<cstring>
+
